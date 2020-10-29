@@ -74,6 +74,7 @@ ol, ul {
   .row {margin: 0 -5px;}
   
   /* Clear floats after the columns */
+  
   .row:after {
 	content: "";
 	display: table;
